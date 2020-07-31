@@ -15,7 +15,7 @@ function startTime() {
     if(seconds < 13){
         document.getElementById('timer').innerHTML = seconds
     }
-    if(seconds>=0){
+    if(seconds>0){
         seconds--
     }else{
         timeUp()

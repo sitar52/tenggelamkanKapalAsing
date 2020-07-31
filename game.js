@@ -67,7 +67,7 @@ document.getElementById('playBtn').addEventListener('click',function () {
 var count= 15
 
 kapalBajakLaut1.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut1').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut1').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
@@ -75,98 +75,98 @@ kapalBajakLaut1.addEventListener('click',function () {
 })
 
 kapalBajakLaut2.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut2').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut2').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut3.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut3').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut3').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut4.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut4').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut4').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut5.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut5').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut5').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut6.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut6').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut6').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut7.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut7').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut7').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut8.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut8').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut8').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut9.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut9').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut9').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut10.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut10').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut10').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut11.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut11').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut11').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut12.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut12').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut12').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut13.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut13').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut13').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut14.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut14').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut14').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"
     }
 })
 kapalBajakLaut15.addEventListener('click',function () {
-    document.getElementById('kapalBajakLaut15').src ='/image/ledak.png'
+    document.getElementById('kapalBajakLaut15').src ='ledak.png'
     count--
     if(count===0){
         window.location.href="finish.html"

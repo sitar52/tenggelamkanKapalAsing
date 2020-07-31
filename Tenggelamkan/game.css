@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gambar{
+    display: inline-block;
+    position: relative;
+}
+
+
+#peta{
+    position: relative;
+    margin-top: 5px;
+    width: 150%;
+    max-width: 150%;
+    right: 25%;
+    
+}
+
+#sembunyi {
+    display: none;
+}
+
+#kapalBajakLaut1 {
+    position:absolute;
+    left: 10%;
+    top:70%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut2 {
+    position:absolute;
+    right: 10%;
+    top:10%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut3 {
+    position:absolute;
+    left: 37%;
+    bottom:18%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut4 {
+    position:absolute;
+    left: 89%;
+    top:63%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut5 {
+    position:absolute;
+    right: 15%;
+    bottom:15%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut6 {
+    position:absolute;
+    left: 60%;
+    bottom:20%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut7 {
+    position:absolute;
+    left: 70%;
+    top:25%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut8 {
+    position:absolute;
+    right: 30%;
+    top:15%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut9 {
+    position:absolute;
+    left: 15%;
+    top:40%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalBajakLaut10 {
+    position:absolute;
+    left: 45%;
+    bottom:10%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalBajakLaut11 {
+    position:absolute;
+    left: 2%;
+    bottom:30%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalBajakLaut12 {
+    position:absolute;
+    right: 110%;
+    top:40%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalBajakLaut13 {
+    position:absolute;
+    left: 100%;
+    bottom:30%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalBajakLaut14 {
+    position:absolute;
+    left: 95%;
+    top: 20%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalBajakLaut15 {
+    position:absolute;
+    left: 110%;
+    top: 25%;
+    width: 25%;
+    max-width: 25%;
+}
+
+#kapalNelayan1 {
+    position:absolute;
+    left: 13%;
+    top:30%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan2 {
+    position:absolute;
+    left: 100%;
+    top:25%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan3 {
+    position:absolute;
+    left: 75%;
+    top:15%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan4 {
+    position:absolute;
+    left: 52%;
+    top:15%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan5 {
+    position:absolute;
+    right: 110%;
+    top:30%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan6 {
+    position:absolute;
+    right: 100%;
+    top:45%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan7 {
+    position:absolute;
+    left: 40%;
+    top:50%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan8 {
+    position:absolute;
+    left: 70%;
+    top:45%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan9 {
+    position:absolute;
+    left: 10%;
+    top:60%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan10 {
+    position:absolute;
+    left: 20%;
+    top:65%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan11 {
+    position:absolute;
+    left: 80%;
+    top:60%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan12 {
+    position:absolute;
+    left: 75%;
+    top:55%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan13 {
+    position:absolute;
+    left: 90%;
+    top:45%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan14 {
+    position:absolute;
+    left: 85%;
+    top:40%;
+    width: 25%;
+    max-width: 25%;
+}
+#kapalNelayan15 {
+    position:absolute;
+    left: 82%;
+    top:50%;
+    width: 25%;
+    max-width: 25%;
+}

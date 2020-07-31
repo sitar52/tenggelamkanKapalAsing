@@ -1,0 +1,60 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    margin-top: 70px;
+}
+
+body{
+    text-align: center;
+    background-color:#1F2C5D;
+    color: white;
+}
+
+p {
+    font-size: 25px;
+    width: 500px;
+    margin:auto;
+    text-align: center;
+}
+img {
+    margin: 20px auto;
+}
+
+button {
+    font-size: 20px;
+    padding: 12px 28px;
+    border-radius: 12px;
+    background-color: #1F2C5D;
+    border: 5px solid white;
+    color: white;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin: 30px auto;
+
+}
+
+.buttonGame{
+    background-color:  #1F2C5D;
+    color: white;
+}
+
+.buttonStart:hover {
+    background-color: white;
+    color: #1F2C5D;
+    font-weight: bold;
+}
+
+.buttonPlay{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color:  #1F2C5D;
+    color: white;
+}
+.buttonPlay:hover {
+    background-color: white;
+    color: #1F2C5D;
+    font-weight: bold;
+}

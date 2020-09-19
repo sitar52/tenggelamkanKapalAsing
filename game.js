@@ -8,11 +8,11 @@ function salahKlik(){
 }
 
 //waktu dimulai setelah button di klik 
-var seconds = 13
+var seconds = 15
 var timer
 
 function startTime() {
-    if(seconds < 13){
+    if(seconds < 15){
         document.getElementById('timer').innerHTML = seconds
     }
     if(seconds>0){
@@ -32,7 +32,7 @@ document.getElementById('playBtn').onclick = function () {
     }
 }
 
-document.getElementById('timer').innerHTML="13 detik"
+document.getElementById('timer').innerHTML="15 detik"
 
 //menyembunyikan button setelah di klik play    
     // belum jalan??
